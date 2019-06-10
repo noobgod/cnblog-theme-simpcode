@@ -305,7 +305,7 @@ a#Header1_HeaderTitle {
 }
 
 #header::before {
-	background-image: url("//images.cnblogs.com/cnblogs_com/noobgod/1307057/o_20190602-13474.jpg");
+	background-image: url("//images.cnblogs.com/cnblogs_com/jajian/1073550/o_20190118203430.png");
 	background-size: contain;
 	border: 0 solid #fff;
 	border-radius: 150px;
@@ -847,12 +847,14 @@ body {
 }
 
 #mainContent #post_detail #cnblogs_post_body h1 {
-	border-bottom: 3px solid rgb(218, 226, 236);
 	color: #080808;
-	font-size: 22pt;
+	font-size: 18pt;
 	font-weight: 700;
 	margin-top: 20px;
 	text-align: left;
+	border-bottom: 2px solid #eaecef;
+	padding-bottom: .3em;
+	border-bottom: 1px solid #a9abad;
 }
 
 #mainContent #post_detail #cnblogs_post_body h2 {
