@@ -12,7 +12,7 @@
 
 博客皮肤默认选择`SimpleMermory`
 
-![Alt text](./1560176850782.png)
+
 
 # 三、页面定制CSS代码
 
