@@ -1,6 +1,6 @@
 # cnblog-theme-simpcode
 
-一款简单干净的博客园主题，示例博客：https://www.cnblogs.com/noobgod/。
+一款简单干净的博客园主题，示例博客：https://www.cnblogs.com/noobgod/
 
 # 一、准备
 
